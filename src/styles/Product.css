@@ -1,0 +1,16 @@
+.product-banner{
+    width: 90%;
+height: 300px;
+border-radius: 20px;
+}
+
+.detail-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+h2{
+    margin: 50px auto;
+    text-align: center;
+}
